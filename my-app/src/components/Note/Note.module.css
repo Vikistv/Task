@@ -1,0 +1,19 @@
+.cards{
+  width: 500px;
+  font-family: "Marker Felt", fantasy;
+}
+
+.formForEdit{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: "Marker Felt", fantasy;
+  font-size: 20px;
+  margin-top: 80px;
+  padding: 10px;
+  
+}
+
+.inputs{
+  width:fit-content;
+}

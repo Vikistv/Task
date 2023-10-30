@@ -1,0 +1,33 @@
+.loginform{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: "Marker Felt", fantasy;
+  font-size: 20px;
+  margin-top: 200px;
+  padding: 10px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid #272626; 
+  border-radius: 5px; 
+  padding: 20px; 
+  margin: 20px; 
+  width: 30%;
+}
+
+.button {
+  width: 20%;
+  background-color: #d2cbcb;
+  font-family: "Marker Felt", fantasy;
+}
+
+.inputs {
+  font-family: "Marker Felt", fantasy;
+  font-size: 20px;
+}

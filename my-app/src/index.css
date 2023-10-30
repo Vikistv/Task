@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-image: url('../public/img/7.png');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
